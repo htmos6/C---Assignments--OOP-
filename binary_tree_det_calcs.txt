@@ -1,0 +1,178 @@
+
+Matrix Size: 11x11
+File Name : 0.txt
+Determinant of the Matrix: -135960
+Filled Capacity of the Hash Table: 817
+Size of HT_Table in bytes: 428356368 bytes
+Time Elapsed: 14 miliseconds
+
+Matrix Size: 11x11
+File Name : 1.txt
+Determinant of the Matrix: -8996
+Filled Capacity of the Hash Table: 451
+Size of HT_Table in bytes: 236461104 bytes
+Time Elapsed: 8 miliseconds
+
+Matrix Size: 11x11
+File Name : 2.txt
+Determinant of the Matrix: 7029
+Filled Capacity of the Hash Table: 1101
+Size of HT_Table in bytes: 577258704 bytes
+Time Elapsed: 12 miliseconds
+
+Matrix Size: 11x11
+File Name : 3.txt
+Determinant of the Matrix: 75240
+Filled Capacity of the Hash Table: 493
+Size of HT_Table in bytes: 258481872 bytes
+Time Elapsed: 7 miliseconds
+
+Matrix Size: 11x11
+File Name : 4.txt
+Determinant of the Matrix: -27344
+Filled Capacity of the Hash Table: 1528
+Size of HT_Table in bytes: 801136512 bytes
+Time Elapsed: 16 miliseconds
+
+Matrix Size: 12x12
+File Name : 0.txt
+Determinant of the Matrix: 200352
+Filled Capacity of the Hash Table: 657
+Size of HT_Table in bytes: 344467728 bytes
+Time Elapsed: 16 miliseconds
+
+Matrix Size: 12x12
+File Name : 1.txt
+Determinant of the Matrix: -460962
+Filled Capacity of the Hash Table: 1432
+Size of HT_Table in bytes: 750803328 bytes
+Time Elapsed: 31 miliseconds
+
+Matrix Size: 12x12
+File Name : 2.txt
+Determinant of the Matrix: 80850
+Filled Capacity of the Hash Table: 2059
+Size of HT_Table in bytes: 1079541936 bytes
+Time Elapsed: 27 miliseconds
+
+Matrix Size: 12x12
+File Name : 3.txt
+Determinant of the Matrix: -24525
+Filled Capacity of the Hash Table: 2959
+Size of HT_Table in bytes: 1551415536 bytes
+Time Elapsed: 32 miliseconds
+
+Matrix Size: 12x12
+File Name : 4.txt
+Determinant of the Matrix: 451837
+Filled Capacity of the Hash Table: 1418
+Size of HT_Table in bytes: 743463072 bytes
+Time Elapsed: 22 miliseconds
+
+Matrix Size: 13x13
+File Name : 0.txt
+Determinant of the Matrix: -14995
+Filled Capacity of the Hash Table: 3018
+Size of HT_Table in bytes: 1582349472 bytes
+Time Elapsed: 56 miliseconds
+
+Matrix Size: 13x13
+File Name : 1.txt
+Determinant of the Matrix: -422071
+Filled Capacity of the Hash Table: 2303
+Size of HT_Table in bytes: 1207472112 bytes
+Time Elapsed: 43 miliseconds
+
+Matrix Size: 13x13
+File Name : 2.txt
+Determinant of the Matrix: -578
+Filled Capacity of the Hash Table: 3200
+Size of HT_Table in bytes: 1677772800 bytes
+Time Elapsed: 51 miliseconds
+
+Matrix Size: 13x13
+File Name : 3.txt
+Determinant of the Matrix: -9626
+Filled Capacity of the Hash Table: 1580
+Size of HT_Table in bytes: 828400320 bytes
+Time Elapsed: 41 miliseconds
+
+Matrix Size: 13x13
+File Name : 4.txt
+Determinant of the Matrix: -54315
+Filled Capacity of the Hash Table: 1871
+Size of HT_Table in bytes: 980972784 bytes
+Time Elapsed: 32 miliseconds
+
+Matrix Size: 14x14
+File Name : 0.txt
+Determinant of the Matrix: -8092
+Filled Capacity of the Hash Table: 3411
+Size of HT_Table in bytes: 1788400944 bytes
+Time Elapsed: 68 miliseconds
+
+Matrix Size: 14x14
+File Name : 1.txt
+Determinant of the Matrix: -63062
+Filled Capacity of the Hash Table: 2990
+Size of HT_Table in bytes: 1567668960 bytes
+Time Elapsed: 65 miliseconds
+
+Matrix Size: 14x14
+File Name : 2.txt
+Determinant of the Matrix: -1814
+Filled Capacity of the Hash Table: 2625
+Size of HT_Table in bytes: 1376298000 bytes
+Time Elapsed: 80 miliseconds
+
+Matrix Size: 14x14
+File Name : 3.txt
+Determinant of the Matrix: 915002
+Filled Capacity of the Hash Table: 1638
+Size of HT_Table in bytes: 858809952 bytes
+Time Elapsed: 37 miliseconds
+
+Matrix Size: 14x14
+File Name : 4.txt
+Determinant of the Matrix: -150480
+Filled Capacity of the Hash Table: 2947
+Size of HT_Table in bytes: 1545123888 bytes
+Time Elapsed: 57 miliseconds
+
+Matrix Size: 15x15
+File Name : 0.txt
+Determinant of the Matrix: -31283
+Filled Capacity of the Hash Table: 2632
+Size of HT_Table in bytes: 1379968128 bytes
+Time Elapsed: 77 miliseconds
+
+Matrix Size: 15x15
+File Name : 1.txt
+Determinant of the Matrix: -192
+Filled Capacity of the Hash Table: 17565
+Size of HT_Table in bytes: 9209399760 bytes
+Time Elapsed: 370 miliseconds
+
+Matrix Size: 15x15
+File Name : 2.txt
+Determinant of the Matrix: -4521
+Filled Capacity of the Hash Table: 6334
+Size of HT_Table in bytes: 3320941536 bytes
+Time Elapsed: 162 miliseconds
+
+Matrix Size: 15x15
+File Name : 3.txt
+Determinant of the Matrix: -2763
+Filled Capacity of the Hash Table: 2673
+Size of HT_Table in bytes: 1401464592 bytes
+Time Elapsed: 99 miliseconds
+
+Matrix Size: 15x15
+File Name : 4.txt
+Determinant of the Matrix: 48952
+Filled Capacity of the Hash Table: 4494
+Size of HT_Table in bytes: 2356222176 bytes
+Time Elapsed: 101 miliseconds
+
+Average HT time elapsed: 60 miliseconds
+Average Memory Used in Bytes: 1514106063 bytes
