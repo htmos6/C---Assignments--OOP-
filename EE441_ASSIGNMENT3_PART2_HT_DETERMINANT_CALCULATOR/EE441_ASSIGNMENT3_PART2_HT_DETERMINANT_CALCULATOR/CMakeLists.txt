@@ -1,0 +1,5 @@
+﻿cmake_minimum_required(VERSION 3.8)
+
+project(EE441_ASSIGNMENT3_PART2_HT_DETERMINANT_CALCULATOR VERSION 0.1 LANGUAGES CXX C)
+
+add_subdirectory(Util)
